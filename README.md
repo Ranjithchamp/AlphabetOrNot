@@ -9,7 +9,7 @@ public class CharacterOrNot {
 		int input=(int)c;
 		if(input<91 && input>=65)
 		{
-			System.out.println("the given character is Alphabet");
+			System.out.println("the given character is Alphabet..");
 		}
 		else if(input>96 && input<123)
 		{
